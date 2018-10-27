@@ -1,8 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>Erporate Business Center</title>
-
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
 	<?=$this->template->css('materialize.min')?>
 	<?=$this->template->css('custom')?>
 </head>
