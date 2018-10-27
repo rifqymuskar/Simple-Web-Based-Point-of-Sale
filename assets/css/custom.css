@@ -1,0 +1,19 @@
+.box{
+	width: 100%;
+	height: auto;
+	padding: 5%;
+	box-shadow: 0 0 20px rgba(27,39,51,.2);
+}
+
+.modal-content{
+	color: #000!important;
+}
+.delete_specifik_row_cart{
+	color: #000;
+}
+.validate{
+	border-bottom: 1px soli #000!important;
+}
+.modal{
+	width: 75%!important;
+}
