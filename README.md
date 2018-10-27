@@ -16,6 +16,7 @@
 		
 # jobdesk
 	1. kasir 
+		- menambahkan produk(makanan/minuman), mengedit, menghapus 
 		- melihat semua daftar pesanan yang masih aktif.
 		- bisa menambah/mengurangi/mengubah pesanan yang masih aktif.
 		- memproses pembayaran dan menutup pesanan yang masih aktif.
